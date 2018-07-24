@@ -1,0 +1,54 @@
+[
+  {
+    "id": 145,
+    "name": "Kultura splash wave mountain resort La union",
+    "imageUrl": "https://raw.githubusercontent.com/macagba0726/mac/master/pic/1.jpg",
+    "price": 350,
+    "priceCurrency": "₱",
+    "lat": 16.318841,
+    "lng": 120.468725
+  },
+  {
+    "id": 148,
+    "name": "Botanical Garden La Union",
+    "imageUrl": "https://raw.githubusercontent.com/macagba0726/mac/master/pic/2.jpg",
+    "price": 200,
+    "priceCurrency": "₱",
+    "lat": 16.587331,
+    "lng": 120.365915
+  },
+  {
+    "id": 201,
+    "name": "Bahay na Bato La union",
+    "imageUrl": "https://raw.githubusercontent.com/macagba0726/mac/master/pic/3.jpg",
+    "price": 150,
+    "priceCurrency": "₱",
+    "lat": 16.847221,
+    "lng": 120.351335
+  },
+  {
+    "id": 205,
+    "name": "Kahuna beach resort and Spa La Union",
+    "imageUrl": "https://raw.githubusercontent.com/macagba0726/mac/master/pic/4.jpg",
+    "price": 500,
+    "priceCurrency": "₱",
+    "lat": 16.658313,
+    "lng": 120.321754
+  },
+  {
+    "id": 211,
+    "name": "Bauang Grapes La union",
+    "imageUrl": "https://raw.githubusercontent.com/macagba0726/mac/master/pic/5.jpg",
+    "price": 200,
+    "priceCurrency": "₱",
+    "lat": 16.461095,
+    "lng":120.333926
+  },
+    {
+    "id": 212,
+    "name": "Home(Cabaroan) La Union",
+    "imageUrl": "https://raw.githubusercontent.com/macagba0726/mac/master/pic/6.jpg",
+    "price": 250,
+    "priceCurrency": "₱",
+    "lat": 16.616125,
+    "lng": 120.328988
